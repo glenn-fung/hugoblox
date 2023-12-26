@@ -27,9 +27,9 @@ featured: false
 authors:
   - Glenn Fung
 
-location: Watson LT A (G23), The University of Birmingham
+location: Watson LT A (G23)
 address:
-  street: School of Mathematics
+  street: The University of Birmingham
   city: Edgbaston
   region: Birmingham
   postcode: '94305'
@@ -39,9 +39,3 @@ address:
 ---
 
 Comparative judgment is a useful and intuitive technique for data that has long been proposed but used only within a limited range. This paper seeks to summarize and explore the relationship between different approaches to assess the reliability of data, especially, scale separation reliability (SSR) and split halves. We found that, SSR is associated to the Pearson correlation coefficient from split halves within one round when the internal consistency of the two subsets is high. Also, by lowering the hierarchy of the split halves and excluding players with large variances, traditional data reliability methods could still be applied to sparse data. We also proposed new methods of the assessment. The empirical analysis focuses on the application to sparse data addressing issues related human rights such as forced marriage and deprivation, and concluded the high level of reliability of these data, which paves the way for future use of comparative judgment in wider range. 
-
-# Related Links
-* [The Bradley-Terry model. ](https://doi.org/10.1093/biomet/39.3-4.324)
-* [The BradleyTerry2 package in R. ](https://github.com/hturner/BradleyTerry2)
-* [The Bayesian Spatial Bradley-Terry model. ](https://doi.org/10.1111/rssc.12532)
-* [The BSBT package in R. ](https://github.com/rowlandseymour/BSBT)
