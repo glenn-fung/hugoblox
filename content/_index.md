@@ -297,5 +297,7 @@ sections:
       subtitle: 
       text: |2-
           * External links.
-          * Honors, awards, and scholarships. 
+          * Honors, awards, and scholarships.
+    design:
+      columns: '2'
 ---
