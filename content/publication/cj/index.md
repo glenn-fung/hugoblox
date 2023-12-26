@@ -20,6 +20,13 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: ''
+  focal_point: ''
+  placement: 2
+  preview_only: false
 
 authors:
   - Glenn Fung
@@ -72,3 +79,10 @@ We focused the empirical analysis on the application to sparse data addressing i
 * [The BradleyTerry2 package in R. ](https://github.com/hturner/BradleyTerry2)
 * [The Bayesian Spatial Bradley-Terry model. ](https://doi.org/10.1111/rssc.12532)
 * [The BSBT package in R. ](https://github.com/rowlandseymour/BSBT)
+
+
+
+
+
+
+
