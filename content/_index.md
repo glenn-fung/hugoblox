@@ -81,6 +81,8 @@ sections:
           company_logo: 
           location: 'Guangzhou, PRC'
           date_start: '2022-02-01'
+    
+    
           date_end: '2023-01-01'
           description: Teaching assistant & grader. Courses:
 
