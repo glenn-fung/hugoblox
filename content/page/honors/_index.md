@@ -1,3 +1,4 @@
+---
 sections:
   - block: accomplishments
     content:
@@ -56,3 +57,4 @@ sections:
           organization: Jinan University
           title: Merit Student Award
           url: ''
+---
