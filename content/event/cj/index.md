@@ -32,7 +32,7 @@ address:
   street: The University of Birmingham
   city: Edgbaston
   region: Birmingham
-  postcode: '94305'
+  postcode: 
   country: United Kingdom
 
 
