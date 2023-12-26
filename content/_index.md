@@ -294,7 +294,8 @@ sections:
     id: misc
     content:
       title: Miscellany
-      subtitle: 
+      subtitle:
+      count: 5
       filters:
         folders:
           - page
