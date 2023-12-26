@@ -297,7 +297,7 @@ sections:
       subtitle: 
       text: |2-
           * External links.
-          * Honors, awards, and scholarships.
+          * [Honors, awards, and scholarships](https://glenn-fung.github.io/page/honors/).
     design:
       columns: '2'
 ---
