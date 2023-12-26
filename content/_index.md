@@ -295,9 +295,8 @@ sections:
     content:
       title: Miscellany
       subtitle: 
-      text: |2-
-          * External links.
-          * [Honors, awards, and scholarships](https://glenn-fung.github.io/page/honors/).
-    design:
+      filters:
+        folders:
+          - page
       columns: '2'
 ---
