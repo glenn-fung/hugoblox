@@ -290,4 +290,12 @@ sections:
 #          captcha: false
     design:
       columns: '2'
+  - block: markdown
+    id: misc
+    content:
+      title: Miscellany
+      subtitle: 
+      text: |2-
+          * External links.
+          * Honors, awards, and scholarships. 
 ---
