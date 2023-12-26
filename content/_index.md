@@ -66,7 +66,7 @@ sections:
         - title: Research Assistant
           company: Jinan Univeristy – University of Birmingham Joint Institute 
           company_url: ''
-          company_logo: 
+          company_logo: jbji
           location: 'Guangzhou, PRC'
           date_start: '2023-01-01'
           date_end: ''
@@ -79,7 +79,7 @@ sections:
         - title: Teaching Assistant
           company: Jinan Univeristy – University of Birmingham Joint Institute 
           company_url: ''
-          company_logo: 
+          company_logo: jbji
           location: 'Guangzhou, PRC'
           date_start: '2022-02-01'
           date_end: '2023-01-01'
