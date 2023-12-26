@@ -3,7 +3,7 @@ title: External Links
 
 
 # Summary for listings and search engines
-summary: External links. 
+summary: Some external links. 
 
 # Is this an unpublished draft?
 draft: false
