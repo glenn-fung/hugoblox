@@ -299,5 +299,7 @@ sections:
       filters:
         folders:
           - page
+        exclude_featured: true
+    design:
       columns: '2'
 ---
