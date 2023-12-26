@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-          company: Jinan Univeristy
+          company: Jinan Univeristy – University of Birmingham Joint Institute 
           company_url: ''
           company_logo: 
           location: Guangzhou, PRC
@@ -76,7 +76,7 @@ sections:
               * Labor economics (beauty premium);
               * Financial economics (market microstructure). 
         - title: Teaching Assistant
-          company: Jinan Univeristy
+          company: Jinan Univeristy – University of Birmingham Joint Institute 
           company_url: ''
           company_logo: 
           location: Guangzhou, PRC
