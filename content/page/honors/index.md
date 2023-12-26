@@ -20,7 +20,7 @@ sections:
       title: 'Honors, Awards, and Scholarships'
       subtitle:
       text: |2-
-          Below is a list of honors, awards, and scholarships since undergrad. 
+          Below is a list of honors, awards, and scholarships since undergrad. <br><br>
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -33,6 +33,7 @@ sections:
           date_end: ''
           date_start: '2023-12-25'
           description: ''
+          icon: jnu
           organization: Jinan University
           title: Merit Student Award
           url: ''
@@ -40,6 +41,7 @@ sections:
           date_end: ''
           date_start: '2023-07-25'
           description: ''
+          icon: uob
           organization: The University of Birmingham
           title: Summer Undergraduate Research Bursary
           url: ''
@@ -47,6 +49,7 @@ sections:
           date_end: ''
           date_start: '2023-03-25'
           description: ''
+          icon: jbji
           organization: Jinan Univeristy – University of Birmingham Joint Institute
           title: Academic Rising Star Scholarship
           url: ''
@@ -54,6 +57,7 @@ sections:
           date_end: ''
           date_start: '2022-12-25'
           description: ''
+          icon: jnu
           organization: Jinan University
           title: Second-Class Merit Student Scholarship
           url: ''
@@ -61,12 +65,14 @@ sections:
           date_end: ''
           date_start: '2022-12-25'
           description: ''
+          icon: jnu
           organization: Jinan University
           title: Merit Student Leader Award
           url: ''
         - certificate_url: 
           date_end: ''
           date_start: '2021-12-25'
+          icon: jnu
           description: ''
           organization: Jinan University
           title: Merit Student Award
