@@ -119,5 +119,7 @@ social:
 highlight_name: true
 ---
 
-I am a fourth-year undergraduate student at the joint institute of the University of Birmingham and Jinan University, major at applied mathematics and economics. Curriculum Vitae would be available upon reasonable requests. 
+I am a fourth-year undergraduate student at the joint institute of the University of Birmingham and Jinan University, major at applied mathematics and economics. 
+
+Curriculum Vitae would be available upon reasonable requests. 
 {style="text-align: justify;"}
