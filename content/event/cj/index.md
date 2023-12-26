@@ -31,7 +31,7 @@ location: Watson LT A (G23)
 address:
   street: The University of Birmingham
   city: Edgbaston
-  region: Birmingham
+  region: Birmingham, United Kingdom
   postcode: 
   country: United Kingdom
 
