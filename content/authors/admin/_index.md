@@ -111,13 +111,13 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: # uploads/resume.pdf
+ # - icon: cv
+ #   icon_pack: ai
+ #   link: # uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a fourth-year undergraduate student at the joint institute of the University of Birmingham and Jinan University, major at applied mathematics and economics. 
+I am a fourth-year undergraduate student at the joint institute of the University of Birmingham and Jinan University, major at applied mathematics and economics. Curriculum Vitae would be available upon reasonable requests. 
 {style="text-align: justify;"}
