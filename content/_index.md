@@ -290,7 +290,7 @@ sections:
 #          captcha: false
     design:
       columns: '2'
-  - block: markdown
+  - block: collection
     id: misc
     content:
       title: Miscellany
