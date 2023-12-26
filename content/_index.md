@@ -51,6 +51,7 @@ sections:
   #  design:
   #    columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -205,6 +206,7 @@ sections:
  #     columns: '2'
  #     view: card
   - block: collection
+    id: research
     content:
       title: Recent Research
 #      text: |-
