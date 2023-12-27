@@ -36,7 +36,7 @@ authors:
 
 ---
 
-{{< relref “docs.md” >}}
+{{< toc >}}
 
 # News
 * I made a presentation on this project on Oct. 31, 2023, at the School of Mathematics of the University of Birmingham. 
