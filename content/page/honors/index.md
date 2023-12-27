@@ -20,7 +20,7 @@ sections:
       title: 'Honors, Awards, and Scholarships'
       subtitle:
       text: |2-
-          Below is a list of honors, awards, and scholarships since undergrad. <br><br>
+          Below is a list of honors, awards, and scholarships I have obtained since undergraduate studies. <br><br>
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
