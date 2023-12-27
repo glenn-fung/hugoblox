@@ -38,10 +38,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BS with Honors in Applied Mathematics with Economics
+    - course: B.S. with Honors in Applied Mathematics with Economics
       institution: The University of Birmingham
       year: 2024
-    - course: BEcon in Economics
+    - course: B.Econ. in Economics
       institution: Jinan University 
       year: 2024
 
