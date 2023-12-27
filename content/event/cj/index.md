@@ -27,7 +27,7 @@ featured: false
 authors:
   - Glenn Fung
 
-location: Watson LT A (G23)
+location: Watson LT A (G23) and online
 address:
   street: The University of Birmingham
   city: Edgbaston
