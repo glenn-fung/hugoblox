@@ -295,7 +295,7 @@ sections:
     content:
       title: Miscellany
       subtitle:
-      count: 5
+      count: 10
       filters:
         folders:
           - page
