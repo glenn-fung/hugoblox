@@ -47,6 +47,14 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
+          date_start: '2023-05-25'
+          description: ''
+          icon: comap
+          organization: Mathematical Contest in Modeling, Consortium for Mathematics and its Applications
+          title: Meritorious Winner 
+          url: ''    
+        - certificate_url: 
+          date_end: ''
           date_start: '2023-03-25'
           description: ''
           icon: jbji
@@ -69,6 +77,14 @@ sections:
           organization: Jinan University
           title: Merit Student Leader Award
           url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2022-05-25'
+          description: ''
+          icon: comap
+          organization: Mathematical Contest in Modeling, Consortium for Mathematics and its Applications
+          title: Meritorious Winner 
+          url: '' 
         - certificate_url: 
           date_end: ''
           date_start: '2021-12-25'
