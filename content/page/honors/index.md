@@ -2,13 +2,8 @@
 title: Honors, Awards, and Scholarships
 type: landing
 # Summary for listings and search engines
-summary: A list of honors, awards, and scholarships since undergrad. 
+summary: A list of honors, awards, and scholarships since undergraduate. 
 
-# Is this an unpublished draft?
-draft: false
-
-# Show this page in the Featured widget?
-featured: false
 
 authors:
   - Glenn Fung
