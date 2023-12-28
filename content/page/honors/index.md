@@ -4,6 +4,7 @@ type: landing
 # Summary for listings and search engines
 summary: A list of honors, awards, and scholarships since undergraduate. 
 
+date: 2023-12-28T00:00:00Z
 
 authors:
   - Glenn Fung
